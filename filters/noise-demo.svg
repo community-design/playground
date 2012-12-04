@@ -8,14 +8,17 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="test.svg"
-   height="800"
+   sodipodi:docname="noise-demo.svg"
+   height="488"
    sodipodi:version="0.32"
-   width="800"
+   width="740"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="0.48.3.1 r9886"
-   id="svg2">
+   id="svg2"
+   inkscape:export-filename="./noise-demo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs13">
     <linearGradient
@@ -53,7 +56,7 @@
        x2="147.30606"
        y2="485.55136"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(44.158187,-14.558313)" />
+       gradientTransform="translate(55.480799,7.2791565)" />
   </defs>
   <sodipodi:namedview
      bordercolor="#646464"
@@ -67,14 +70,18 @@
      showgrid="false"
      borderopacity="0.39215686"
      inkscape:current-layer="svg2"
-     inkscape:cx="333.86232"
-     inkscape:cy="501.62032"
+     inkscape:cx="295.86232"
+     inkscape:cy="204.62032"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      showborder="true"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
-     id="namedview4">
+     id="namedview4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        opacity=".11765"
        empopacity="0.11764706"
@@ -88,7 +95,9 @@
        empcolor="#0000ff"
        type="xygrid"
        empspacing="10"
-       id="grid6" />
+       id="grid6"
+       originx="-10px"
+       originy="-300px" />
   </sodipodi:namedview>
   <metadata
      id="metadata8">
@@ -149,10 +158,10 @@
      style="color:#000000;fill:url(#linearGradient8362);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:87.6424942;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#NoiseL);enable-background:accumulate"
      rx="0"
      ry="0"
-     transform="matrix(0.88318843,0,0,0.54951422,-1.099003,161.19722)" />
+     transform="matrix(0.88318843,0,0,0.54951422,-11.099003,149.19722)" />
   <rect
-     y="136"
-     x="204"
+     y="124"
+     x="194"
      height="267"
      width="337"
      id="rect8314"
@@ -162,14 +171,14 @@
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="537"
-     y="86"
+     x="527"
+     y="74"
      id="text8310"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8312"
-       x="537"
-       y="86">Check out these filters...</tspan></text>
+       x="527"
+       y="74">Check out these filters...</tspan></text>
   <g
      sodipodi:type="inkscape:box3d"
      style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#NoiseL);enable-background:accumulate"
@@ -177,42 +186,42 @@
      inkscape:perspectiveID="#perspective8324"
      inkscape:corner0="-0.20634921 : 0.44047619 : 0 : 1"
      inkscape:corner7="-0.35897436 : 0.31987179 : 0.25 : 1"
-     transform="matrix(1,0,0,0.71372114,15,27.62651)">
+     transform="matrix(1,0,0,0.71372114,5,15.62651)">
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8338"
        style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="11"
-       d="m 551.90494,354.70341 98.47636,-50.41051 0,135.35457 -98.47636,30.61605 z" />
+       d="m 561.90494,-65.628822 98.47636,-50.410518 0,135.354582 -98.47636,30.616046 z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8328"
        style="fill:#353564;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="6"
-       d="m 481,261.99998 0,151.96155 70.90494,56.30199 0,-115.56011 z" />
+       d="m 491,-158.33225 0,151.9615461 70.90494,56.3019919 0,-115.56011 z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8330"
        style="fill:#4d4d9f;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="5"
-       d="m 481,261.99998 120,-92.14286 49.3813,134.43578 -98.47636,50.41051 z" />
+       d="m 491,-158.33225 120,-92.14286 49.3813,134.43577 -98.47636,50.410518 z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8336"
        style="fill:#afafde;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="13"
-       d="m 481,413.96153 120,-55.96154 49.3813,81.64748 -98.47636,30.61605 z" />
+       d="M 491,-6.3707039 611,-62.332244 660.3813,19.315242 561.90494,49.931288 z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8334"
        style="fill:#d7d7ff;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="14"
-       d="m 601,169.85712 0,188.14287 49.3813,81.64748 0,-135.35457 z" />
+       d="m 611,-250.47511 0,188.142866 49.3813,81.647486 0,-135.354582 z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8332"
        style="fill:#8686bf;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="3"
-       d="m 481,261.99998 120,-92.14286 0,188.14287 -120,55.96154 z" />
+       d="m 491,-158.33225 120,-92.14286 0,188.142866 -120,55.9615401 z" />
   </g>
 </svg>
