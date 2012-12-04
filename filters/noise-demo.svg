@@ -14,7 +14,7 @@
    width="740"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r11929"
    id="svg2"
    inkscape:export-filename="./noise-demo.png"
    inkscape:export-xdpi="90"
@@ -42,10 +42,10 @@
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-25 : -27.83153 : 1"
+       inkscape:vp_x="-40 : -35.83153 : 1"
        inkscape:vp_y="0 : 713.72114 : 0"
-       inkscape:vp_z="775 : -27.83153 : 1"
-       inkscape:persp3d-origin="375 : -122.99434 : 1"
+       inkscape:vp_z="760 : -35.83153 : 1"
+       inkscape:persp3d-origin="360 : -130.99434 : 1"
        id="perspective8324" />
     <linearGradient
        inkscape:collect="always"
@@ -70,8 +70,8 @@
      showgrid="false"
      borderopacity="0.39215686"
      inkscape:current-layer="svg2"
-     inkscape:cx="531.79652"
-     inkscape:cy="-6.5100206"
+     inkscape:cx="477.79652"
+     inkscape:cy="189.48998"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      showborder="true"
@@ -107,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
     <filter
@@ -192,42 +192,42 @@
      inkscape:perspectiveID="#perspective8324"
      inkscape:corner0="-0.20634921 : 0.44047619 : 0 : 1"
      inkscape:corner7="-0.35897436 : 0.31987179 : 0.25 : 1"
-     transform="matrix(1,0,0,0.71372114,-12,352.62651)">
+     transform="matrix(1,0,0,0.71372114,-27,360.62651)">
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8338"
        style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="11"
-       d="m 561.90494,-65.628822 98.47636,-50.410518 0,135.354582 -98.47636,30.616046 z" />
+       d="m 561.90494,-65.628822 98.47636,-50.410518 0,135.354582 L 561.90494,49.931288 Z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8328"
        style="fill:#353564;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="6"
-       d="m 491,-158.33225 0,151.9615461 70.90494,56.3019919 0,-115.56011 z" />
+       d="M 491,-158.33225 491,-6.3707039 561.90494,49.931288 561.90494,-65.628822 Z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8330"
        style="fill:#4d4d9f;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="5"
-       d="m 491,-158.33225 120,-92.14286 49.3813,134.43577 -98.47636,50.410518 z" />
+       d="m 491,-158.33225 120,-92.14286 49.3813,134.43577 L 561.90494,-65.628822 Z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8336"
        style="fill:#afafde;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="13"
-       d="M 491,-6.3707039 611,-62.332244 660.3813,19.315242 561.90494,49.931288 z" />
+       d="M 491,-6.3707039 611,-62.332244 660.3813,19.315242 561.90494,49.931288 Z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8334"
        style="fill:#d7d7ff;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="14"
-       d="m 611,-250.47511 0,188.142866 49.3813,81.647486 0,-135.354582 z" />
+       d="m 611,-250.47511 0,188.142866 49.3813,81.647486 L 660.3813,-116.03934 Z" />
     <path
        sodipodi:type="inkscape:box3dside"
        id="path8332"
        style="fill:#8686bf;fill-rule:evenodd;stroke:none"
        inkscape:box3dsidetype="3"
-       d="m 491,-158.33225 120,-92.14286 0,188.142866 -120,55.9615401 z" />
+       d="m 491,-158.33225 120,-92.14286 0,188.142866 L 491,-6.3707039 Z" />
   </g>
 </svg>
