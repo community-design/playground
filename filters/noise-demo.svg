@@ -70,8 +70,8 @@
      showgrid="false"
      borderopacity="0.39215686"
      inkscape:current-layer="svg2"
-     inkscape:cx="295.86232"
-     inkscape:cy="204.62032"
+     inkscape:cx="498.79652"
+     inkscape:cy="100.48998"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      showborder="true"
@@ -170,15 +170,21 @@
      ry="63" />
   <text
      xml:space="preserve"
-     style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="527"
-     y="74"
+     style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;"
+     x="33.253906"
+     y="66"
      id="text8310"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8312"
-       x="527"
-       y="74">Check out these filters...</tspan></text>
+       x="33.253906"
+       y="66"
+       style="font-size:20px">Check out this noise filter...</tspan><tspan
+       sodipodi:role="line"
+       x="33.253906"
+       y="91"
+       id="tspan8389"
+       style="font-size:20px">(it's intentionally weak, but strength can be adjusted in the matrix)</tspan></text>
   <g
      sodipodi:type="inkscape:box3d"
      style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#NoiseL);enable-background:accumulate"
