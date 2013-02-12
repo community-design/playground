@@ -14,7 +14,7 @@
    height="738.20264"
    id="svg1599"
    version="1.1"
-   inkscape:version="0.48+devel r11950"
+   inkscape:version="0.48+devel r12106"
    sodipodi:docname="sketchy-ui.svg">
   <defs
      id="defs1601">
@@ -643,6 +643,43 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscsssc" />
     </symbol>
+    <symbol
+       transform="translate(146.08415,-134.19755)"
+       id="use3486">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path12460"
+         d="m -238.05519,252.32356 c -1.72312,50.46456 -3.5805,56.76578 -3.5805,56.76578 128.38436,-0.009 240.0902756,0.0983 353.50555,-2.45966 115.68453,2.59214 232.76824,2.02293 335.44405,0.82956 l 1.14364,-56.17457 C 324.29894,251.42295 223.88279,257.60453 98.110984,254.6483 -4.0342094,256.62987 -142.96309,254.96294 -238.05519,252.32356 Z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g12462"
+         transform="translate(-18.130315,-12.086877)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path12464"
+           d="m 429.58484,274.39358 c -4.00714,2.49678 -6.25245,7.61753 -5.69698,12.37838 0.34043,3.2021 2.48366,5.98655 5.32253,7.24385 5.03362,2.4008 11.78227,0.68598 14.75821,-4.25977 C 447.1958,281.97298 437.31885,269.52221 429.58484,274.39358 Z"
+           style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12466"
+           d="m 439.2919,294.47491 c 3.02014,5.40632 8.56438,14.24367 10.0404,17.2946"
+           style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:34.46974945px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+         x="-216.59894"
+         y="294.58499"
+         id="text12468"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12470"
+           x="-216.59894"
+           y="294.58499"
+           style="font-size:34.46974945px;fill:#666666;font-family:Architects Daughter;-inkscape-font-specification:Architects Daughter">search</tspan></text>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -652,8 +689,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0073107"
-     inkscape:cx="499.75855"
-     inkscape:cy="364.95933"
+     inkscape:cx="359.28551"
+     inkscape:cy="488.33502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -676,7 +713,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -733,14 +770,6 @@
        width="1"
        height="1"
        transform="translate(-101.18037,120.88896)" />
-    <use
-       id="use3486"
-       xlink:href="#use10420"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       transform="translate(-125.56476,-433.03526)" />
     <use
        id="use3516"
        xlink:href="#use12976"
@@ -849,6 +878,14 @@
        id="use8058"
        xlink:href="#g5007"
        transform="translate(-571.64629,-467.13755)"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+    <use
+       id="use12827"
+       xlink:href="#use3486"
+       transform="translate(11.07194,-0.19883306)"
        x="0"
        y="0"
        width="1"
