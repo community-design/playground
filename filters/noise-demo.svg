@@ -14,7 +14,7 @@
    width="740"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48+devel r11929"
+   inkscape:version="0.48+devel r12131 custom"
    id="svg2"
    inkscape:export-filename="./noise-demo.png"
    inkscape:export-xdpi="90"
@@ -70,8 +70,8 @@
      showgrid="false"
      borderopacity="0.39215686"
      inkscape:current-layer="svg2"
-     inkscape:cx="477.79652"
-     inkscape:cy="189.48998"
+     inkscape:cx="164.79652"
+     inkscape:cy="255.48998"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      showborder="true"
@@ -117,7 +117,7 @@
        y="0"
        width="1"
        height="1"
-       inkscape:label="NoiseL"
+       inkscape:label="NoiseH"
        color-interpolation-filters="sRGB">
       <feTurbulence
          type="fractalNoise"
@@ -135,7 +135,7 @@
       <feColorMatrix
          id="feColorMatrix8294"
          type="matrix"
-         values="0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 "
+         values="0.3 0 0 0 0 0 0.3 0 0 0 0 0 0.3 0 0 0 0 0 0.3 0 "
          result="result3" />
       <feComposite
          id="feComposite8308"
@@ -147,6 +147,44 @@
          in2="SourceGraphic"
          mode="normal"
          result="result4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:label="NoiseL"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="filter851">
+      <feTurbulence
+         seed="0"
+         result="result1"
+         id="feTurbulence853"
+         numOctaves="4"
+         baseFrequency="0.40000000000000002"
+         type="fractalNoise" />
+      <feColorMatrix
+         result="result2"
+         in="result1"
+         values="0"
+         type="saturate"
+         id="feColorMatrix855" />
+      <feColorMatrix
+         result="result3"
+         values="0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 "
+         type="matrix"
+         id="feColorMatrix857" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite859" />
+      <feBlend
+         result="result4"
+         mode="normal"
+         in2="SourceGraphic"
+         id="feBlend861"
+         blend="normal" />
     </filter>
   </metadata>
   <rect
@@ -160,14 +198,24 @@
      ry="0"
      transform="matrix(0.88229992,0,0,0.54826569,-11.337312,150.13982)" />
   <rect
-     y="124"
+     ry="63"
+     rx="63"
+     style="opacity:0.8;color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#NoiseL);enable-background:accumulate"
+     id="rect849"
+     width="337"
+     height="267"
      x="194"
+     y="124" />
+  <rect
+     y="-15"
+     x="-372"
      height="267"
      width="337"
      id="rect8314"
      style="opacity:0.8;color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#NoiseL);enable-background:accumulate"
-     rx="63"
-     ry="63" />
+     rx="102.07211"
+     ry="102.07211"
+     transform="matrix(0.61721068,0,0,0.61721068,-33.397626,143.25816)" />
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;"
