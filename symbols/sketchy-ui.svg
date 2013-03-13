@@ -11,10 +11,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000.3807"
-   height="738.20264"
+   height="935.55176"
    id="svg1599"
    version="1.1"
-   inkscape:version="0.48+devel r12106"
+   inkscape:version="0.48+devel r12197"
    sodipodi:docname="sketchy-ui.svg">
   <defs
      id="defs1601">
@@ -680,6 +680,24 @@
            y="294.58499"
            style="font-size:34.46974945px;fill:#666666;font-family:Architects Daughter;-inkscape-font-specification:Architects Daughter">search</tspan></text>
     </symbol>
+    <symbol
+       id="g2624">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         d="m -103.71617,672.6467 c 95.6788157,-3.10191 561.38853,-0.80543 666.38383,-0.51678 l -3.168,-101.77699 C 336.82211,568.82547 112.53561,571.5325 -100.70392,574.35958 Z"
+         id="path2622"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </symbol>
+    <symbol
+       id="g2634">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2632"
+         d="m -104.70891,790.78304 c 95.6788133,-3.10191 561.38853,-0.80543 666.38383,-0.51678 l -3.168,-101.77699 C 335.82937,686.96181 111.54287,689.66884 -101.69666,692.49592 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -689,8 +707,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0073107"
-     inkscape:cx="359.28551"
-     inkscape:cy="488.33502"
+     inkscape:cx="422.67501"
+     inkscape:cy="248.87753"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -713,7 +731,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -890,5 +908,17 @@
        y="0"
        width="1"
        height="1" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2241"
+       d="m -103.71617,672.6467 c 95.6788157,-3.10191 561.38853,-0.80543 666.38383,-0.51678 l -3.168,-101.77699 C 336.82211,568.82547 112.53561,571.5325 -100.70392,574.35958 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m -104.70891,790.78304 c 95.6788133,-3.10191 561.38853,-0.80543 666.38383,-0.51678 l -3.168,-101.77699 C 335.82937,686.96181 111.54287,689.66884 -101.69666,692.49592 Z"
+       id="path2620"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
