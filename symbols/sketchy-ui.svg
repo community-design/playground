@@ -716,7 +716,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0073107"
      inkscape:cx="441.2013"
-     inkscape:cy="463.21723"
+     inkscape:cy="417.6307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -748,6 +748,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(124.93376,142.70077)">
+    <use
+       id="use3384"
+       xlink:href="#g4872"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       transform="matrix(2.222369,0,0,2.222369,-1795.289,159.1294)" />
     <use
        transform="matrix(0.55944112,0,0,0.27224692,715.74663,207.48752)"
        height="1"
@@ -828,14 +836,6 @@
        y="0"
        width="1"
        height="1" />
-    <use
-       id="use3384"
-       xlink:href="#g4872"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       transform="matrix(2.222369,0,0,2.222369,-1795.289,159.1294)" />
     <use
        id="use3666"
        xlink:href="#g4791"
